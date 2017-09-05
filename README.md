@@ -7,12 +7,16 @@ Vulkan based and with Rustlang written multithreaded engine!
 - Specs
 - Dyon
 - "rPlant", node based programming,
-  like Blueprint in Unreal 4 or Schematyc in CryEngine 5!
-  "rPlant" is not the official Name!
+ - like Blueprint in Unreal 4 or Schematyc in CryEngine 5!
+ - rPlant, is not the official Name!
 - AnimaCap, Motion capturing tool for ms kinect!
 - Vulkan API
 - Qt 5.x
-- Fluid Design from this github repository 
+- Fluid Design from this github repository
+- OpenXR™
+- OpenCL™
+- SYCL™ 2.2
+- OpenVG™
 
 ## OS Supports
 
