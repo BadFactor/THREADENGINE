@@ -7,16 +7,15 @@ Vulkan based and with Rustlang written multithreaded engine!
 - nPhysics
 - Specs
 - Dyon or Gluon
-- "rPlant", node based programming,
- - like Blueprint in Unreal 4 or Schematyc in CryEngine 5!
- - rPlant, is not the official Name!
-- AnimaCap, Motion capturing tool for ms kinect!
 - Qt 5.x
-- Fluid Design from this github repository
+  - Fluid UI
 - OpenXR™
 - OpenCL™
 - SYCL™ 2.2
 - OpenVG™
+- "rPlant", node based programming,
+  - like Blueprint in Unreal 4 or Schematyc in CryEngine 5!
+  - rPlant, is not the official Name!
 
 ## OS Supports
 
@@ -31,3 +30,11 @@ Vulkan based and with Rustlang written multithreaded engine!
 - AMD Radeon HD 7870
 - 8 GB RAM DDR 3
 - 4 GB Harddisk Drive 
+
+## LINKS:
+
+- Gluon https://github.com/gluon-lang/gluon
+- Dyon https://github.com/PistonDevelopers/dyon
+- nPhysics https://github.com/sebcrozet/nphysics
+- Specs https://github.com/slide-rs/specs
+- Vulkano https://github.com/vulkano-rs/vulkano
