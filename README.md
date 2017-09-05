@@ -6,7 +6,7 @@ Vulkan based and with Rustlang written multithreaded engine!
 - Vulkan API via Vulkano
 - nPhysics
 - Specs
-- Dyon
+- Dyon or Gluon
 - "rPlant", node based programming,
  - like Blueprint in Unreal 4 or Schematyc in CryEngine 5!
  - rPlant, is not the official Name!
