@@ -8,12 +8,9 @@ extern crate nalgebra;
 extern crate nphysics;
 extern crate num_cpus;
 extern crate openvr-rs;
-extern crate rust-raytracer;
 extern crate specs;
 extern crate vulkano;
 
-// count logical cores this process could try to use
-let num = num_cpus::get();
 
 use vulkano;
 use specs;
@@ -23,6 +20,9 @@ use nphysics;
 fn HARDWARE() {
     ;
 }
+
+// count logical cores this process could try to use
+let num = num_cpus::get();
 
 // GET HARDWARE DEVICES
 fn HARDWARE() {
