@@ -39,3 +39,12 @@ fn INITRENDERER() {
 fn DEINITRENDERER() {
     ;
 }
+
+// INIT WINDOW
+fn INITWINDOW() {
+    ;
+}
+// DEINIT WINDOW
+fn DEINITWINDOW() {
+    ;
+}
