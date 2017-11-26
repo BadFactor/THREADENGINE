@@ -15,11 +15,25 @@ extern crate vulkano;
 // count logical cores this process could try to use
 let num = num_cpus::get();
 
-use std::io;
+use vulkano;
+use specs;
+use nphysics;
 
-extern crate conrad;
-extern crate mio;
+// GET OPERATING SYSTEM
 
-fn main() {
-    println!("Hello World!");
+let OS = Linux::get()
+
+// GET HARDWARE DEVICES
+fn HARDWARE() {
+    ;
+}
+// INIT REFUSE RENDERER
+fn INIT RENDERER() {
+    let mut init= init_renderer::()
+
+}
+
+// DEINIT REFUSE RENDERER
+fn DEINIT RENDERER() {
+    ;
 }
