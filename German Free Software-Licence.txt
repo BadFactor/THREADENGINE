@@ -1,0 +1,742 @@
+<!DOCTYPE html>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ --><!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]--><!--[if gt IE 8]><!--><html xmlns="http://www.w3.org/1999/xhtml" class="no-js" lang="en" xml:lang="en"> <!--<![endif]-->
+<head>
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta content="2015-03-30T16:25:39+02:00" name="DC.date.modified" /><meta content="application/rtf" name="DC.format" /><meta content="Datei" name="DC.type" /><meta content="2015-03-30T15:40:12+02:00" name="DC.date.created" /><meta content="de" name="DC.language" /><meta name="viewport" content="width=device-width, initial-scale=0.6666, maximum-scale=1.0, minimum-scale=0.6666" /><meta name="generator" content="Plone - http://plone.org" /><title>D-FSL-1_0_de.rtf — Hochschulbibliothekszentrum NRW</title><base href="https://www.hbz-nrw.de/produkte/open-access/lizenzen/dfsl/D-FSL-1_0_de.rtf" /><!--[if lt IE 7]></base><![endif]--><link rel="stylesheet" type="text/css" media="screen" href="https://www.hbz-nrw.de/portal_css/hbz%20responsive%20theme/reset-cachekey-ef8e930710b5a4d1a71352026c15c723.css" /><link rel="stylesheet" type="text/css" href="https://www.hbz-nrw.de/portal_css/hbz%20responsive%20theme/base-cachekey-263a0057b435c5aaf30b6c02a986a1de.css" /><style type="text/css" media="screen">@import url(https://www.hbz-nrw.de/portal_css/hbz%20responsive%20theme/famfamfam-cachekey-ebf42f9f265314556007b39bc6531307.css);</style><link rel="stylesheet" type="text/css" media="screen" href="https://www.hbz-nrw.de/portal_css/hbz%20responsive%20theme/resourceplone.app.jquerytools.dateinput-cachekey-cd97af7479829017de2d1abfc18b4248.css" /><style type="text/css" media="screen">@import url(https://www.hbz-nrw.de/portal_css/hbz%20responsive%20theme/resourceprettyPhoto-cachekey-dea895811d3a37c5d778c909bcbe72c5.css);</style><link rel="stylesheet" type="text/css" media="screen" href="https://www.hbz-nrw.de/portal_css/hbz%20responsive%20theme/resourcehbz.contentleaflet-cachekey-ce95b43e4d6d388e6373bbeb15b79baa.css" /><link rel="stylesheet" type="text/css" media="screen" href="https://www.hbz-nrw.de/portal_css/hbz%20responsive%20theme/resourcehbz.contenthbzcontent-cachekey-d7415139b02c119351dc83b112bc38dc.css" /><link rel="stylesheet" type="text/css" media="screen" href="https://www.hbz-nrw.de/portal_css/hbz%20responsive%20theme/resourcehbz.remotecontenthbzremotecontent-cachekey-38ebcb6e5fdaf3d6a8f3ed56548da187.css" /><link rel="stylesheet" type="text/css" media="screen" href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" /><link rel="stylesheet" type="text/css" media="screen" href="https://www.hbz-nrw.de/portal_css/hbz%20responsive%20theme/themehbz.responsivecssnoto-cachekey-fe0cb838efbe4ae2cb6788256d6f7821.css" /><link rel="stylesheet" type="text/css" media="screen" href="https://www.hbz-nrw.de/portal_css/hbz%20responsive%20theme/themehbz.responsivecssfoundation.min-cachekey-4886d0698d227660156eeb27f72ba5c4.css" /><link rel="stylesheet" type="text/css" media="screen" href="https://www.hbz-nrw.de/portal_css/hbz%20responsive%20theme/themehbz.responsivecssshariff.min-cachekey-c5cf59e60b72c09367036d7f2f28c2e5.css" /><link rel="stylesheet" type="text/css" media="all" href="https://www.hbz-nrw.de/portal_css/hbz%20responsive%20theme/ploneCustom-cachekey-52a1efa23c4a656f858c6dafc7f7dea0.css" /><script type="text/javascript" src="https://www.hbz-nrw.de/portal_javascripts/hbz%20responsive%20theme/resourceplone.app.jquery-cachekey-5a7cb79369bf9b11bbfa6859d0fe640e.js"></script><script type="text/javascript" src="https://www.hbz-nrw.de/portal_javascripts/hbz%20responsive%20theme/++resource++hbz.content/leaflet.js"></script><script type="text/javascript" src="https://www.hbz-nrw.de/portal_javascripts/hbz%20responsive%20theme/register_function-cachekey-7042614780e4e66c5b3486300e32e184.js"></script><script type="text/javascript" src="https://www.hbz-nrw.de/portal_javascripts/hbz%20responsive%20theme/kss-bbb-cachekey-3278619c9c2b55517092d97a3276161d.js"></script><script type="text/javascript" src="https://www.hbz-nrw.de/portal_javascripts/hbz%20responsive%20theme/themehbz.responsivejsmodernizr.foundation-cachekey-accd7d8bc45ce6d86e5a045008e6e0de.js"></script><link rel="canonical" href="https://www.hbz-nrw.de/produkte/open-access/lizenzen/dfsl/D-FSL-1_0_de.rtf" /><link rel="shortcut icon" type="image/x-icon" href="https://www.hbz-nrw.de/favicon.ico" /><link rel="apple-touch-icon" href="https://www.hbz-nrw.de/touch_icon.png" /><link rel="search" href="https://www.hbz-nrw.de/@@search" title="Website durchsuchen" /></head>
+<body class="template-file_view portaltype-file site-hbz-nrw section-produkte subsection-open-access subsection-open-access-lizenzen subsection-open-access-lizenzen-dfsl icons-on userrole-anonymous" dir="ltr"><div id="wrap-everthing">
+
+	
+    <header class="top-header">  
+    
+	    <div class="row">
+			<div class="six mobile-two columns">
+                <ul id="skiplinks">
+			      <li><a class="hidden" accesskey="2" href="#content">Direkt zum Inhalt</a></li>
+			      <li><a class="hidden" accesskey="6" href="#global-navigation">Direkt zur Navigation</a></li>
+			    </ul>
+			    
+				<a class="hbz-logo" href="https://www.hbz-nrw.de" accesskey="1" title="zur hbz Homepage">
+                   <svg xmlns="http://www.w3.org/2000/svg" width="185" height="65"><path d="M185.191 54.057v-7.596h-5.649c-2.402 0-5.973 0-7.336.065l12.726-18.829V21.79h-22.596v7.401h5.713c3.117 0 5.65-.064 6.883-.13L161.946 48.15v5.908h23.245M94.26 13.024v41.033h8.31V38.475c0-5.649 3.247-10.453 7.467-10.453 3.116 0 4.025 2.013 4.025 5.389v20.646h8.247V31.398c0-5.649-2.337-10.323-9.61-10.323-5.065 0-8.766 2.402-10.648 6.038l-.065-.065c.454-1.883.585-4.61.585-6.558V6.596c-4.805-.13-9.806.065-13.96.585v5.193c1.882.13 4.09.39 5.648.65" fill="#f18123"></path><path d="M137.622 6.503c-4.805-.13-9.804.065-13.96.584v5.194c1.883.13 4.09.39 5.65.65v40.125c3.7 1.039 7.336 1.558 12.011 1.558 11.103 0 17.466-7.532 17.466-18.44 0-9.544-4.155-15.128-11.882-15.128-4.545 0-8.116 2.208-9.74 5.714h-.064c.324-1.688.519-4.35.519-6.298V6.503zm12.402 30.515c0 7.987-3.377 10.973-8.117 10.973-1.753 0-3.116-.194-4.285-.584v-9.09c0-5.389 2.597-10.388 6.882-10.388 3.766 0 5.52 3.051 5.52 9.09" fill="#f18123" fill-rule="evenodd"></path><path d="M50.832 42.772V11.641H13.903V5.625l49.105-.001.003 37.148H50.83" fill="#004678"></path><path d="M21.654 44.5h43.084V5.636l7.428.001-.001 48.399h-50.51V44.5" fill="#004678"></path><path d="M19.928 13.368v42.395h43.083l-.002 9.763H13.903V13.368h6.025" fill="#004678"></path><path d="M63.008 3.897H12.177v50.139H0V.002L63.008 0v3.897" fill="#004678"></path></svg>
+                   <!--<img src="logo.png" height="83" width="273" alt="hbz - Wissen, Information, Innovation" />-->
+                </a>
+			</div>
+			 
+			<div class="six mobile-two columns">
+                <div id="member-only">
+                    
+                </div>
+				<div id="portal-searchbox">
+
+    <form id="searchGadget_form" action="https://www.hbz-nrw.de/@@search">
+
+        <div class="LSBox">
+        <label class="hiddenStructure" for="searchGadget">Website durchsuchen</label>
+
+        <input name="SearchableText" type="text" size="18" title="Website durchsuchen" placeholder="Website durchsuchen" accesskey="4" class="searchField" id="searchGadget" />
+
+        <input class="searchButton" type="submit" value="Suche" />
+
+        <div class="searchSection">
+            <input id="searchbox_currentfolder_only" class="noborder" type="checkbox" name="path" value="/hbz-nrw/produkte/open-access/lizenzen/dfsl" />
+            <label for="searchbox_currentfolder_only" style="cursor: pointer">nur im aktuellen Bereich</label>
+        </div>
+
+        <div class="LSResult" id="LSResult"><div class="LSShadow" id="LSShadow"></div></div>
+        </div>
+    </form>
+
+    <div id="portal-advanced-search" class="hiddenStructure">
+        <a href="https://www.hbz-nrw.de/@@search" accesskey="5">Erweiterte Suche…</a>
+    </div>
+
+</div>
+
+			</div>
+			
+		</div>
+	
+	<div class="row"> 
+	  <div class="twelve columns contain-to-grid sticky">
+		<nav class="top-bar">
+		  <ul>
+		    <li class="name">
+                <a class="hbz-logo" href="https://www.hbz-nrw.de" title="zur hbz Homepage">hbz</a>
+            </li>
+			<li class="search-icon"><a id="advanced-search" href="https://www.hbz-nrw.de/@@search">zur Suche</a></li>
+			<li class="toggle-topbar menu-icon"><a href="#"></a></li>
+		  </ul>
+		  <section>
+			<ul class="left" id="global-navigation"><li id="portaltab-index_html" class="plain"><a href="https://www.hbz-nrw.de" title="">Startseite</a></li><li id="portaltab-produkte" class="selected"><a href="https://www.hbz-nrw.de/produkte" title="Das Hochschulbibliothekszentrum des Landes Nordrhein-Westfalen (hbz) unterstützt die Prozesse und Dienstleistungen in Bibliotheken und Einrichtungen durch ein vielfältiges Angebot.">Produkte &amp; Lösungen</a></li><li id="portaltab-projekte" class="plain"><a href="https://www.hbz-nrw.de/projekte" title="Informationen zu aktuellen Projekten des hbz">Projekte</a></li><li id="portaltab-literatursuche" class="plain"><a href="https://www.hbz-nrw.de/literatursuche" title="Einfache Literatursuche basierend auf dem hbz-Verbundkatalog ">Literatur finden</a></li><li id="portaltab-aktuelles" class="plain"><a href="https://www.hbz-nrw.de/aktuelles" title="Alle Nachrichten sowie Termine des hbz in chronologischer Reihenfolge">Aktuelles</a></li><li id="portaltab-service" class="plain"><a href="https://www.hbz-nrw.de/service" title="Publikationen und Mediathek des hbz">Service</a></li><li id="portaltab-ueber-uns" class="plain"><a href="https://www.hbz-nrw.de/ueber-uns" title="Kurzportrait, Organisation, Gremien, Kooperationen, Stellenangebote und Kontakt des Hochschulbibliothekszentrum des Landes Nordrhein-Westfalen (hbz)">Über uns</a></li></ul>
+		  </section>
+		</nav>
+	  </div>
+	</div>
+  </header>
+	<div class="band">
+		
+	</div>
+	
+	<div class="row" id="body">
+		<div class="three columns" id="column-one">
+            
+                
+<div class="portletWrapper" data-portlethash="706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f68627a2d6e72770a6e617669676174696f6e" id="portletwrapper-706c6f6e652e6c656674636f6c756d6e0a636f6e746578740a2f68627a2d6e72770a6e617669676174696f6e">
+<dl class="portlet portletNavigationTree">
+
+    <dt class="portletHeader hiddenStructure">
+        <span class="portletTopLeft"></span>
+        <a href="https://www.hbz-nrw.de/sitemap" class="tile">Navigation</a>
+        <span class="portletTopRight"></span>
+    </dt>
+
+    <dd class="portletItem lastItem">
+        <ul class="navTree navTreeLevel0">
+            
+            
+
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-bibliotheksstatistik">
+
+    
+
+
+        <a href="https://www.hbz-nrw.de/produkte/bibliotheksstatistik" class="state-published navTreeFolderish contenttype-hbz-product" title="Die Bibliotheksstatistik umfasst die Deutsche Bibliotheksstatistik (DBS) und die Österreichische Bibliotheksstatistik (ÖBS).">
+            
+            <span>Bibliotheksstatistik</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-bibliothekssysteme">
+
+    
+
+
+        <a href="https://www.hbz-nrw.de/produkte/bibliothekssysteme" class="state-published navTreeFolderish contenttype-hbz-product" title="Mit Bibliothekssystemen der neuen Generation stets auf dem aktuellen Stand sein, unterstützt durch das Hochschulbibliothekszentrum des Landes Nordrhein-Westfalen (hbz).">
+            
+            <span>Bibliothekssysteme</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-digiauskunft">
+
+    
+
+
+        <a href="https://www.hbz-nrw.de/produkte/digiauskunft" class="state-published navTreeFolderish contenttype-hbz-product" title="Mit DigiAuskunft den Auskunftsservice in virtueller Kooperation mit anderen öffentlichen und wissenschaftlichen Bibliotheken professionalisieren.">
+            
+            <span>DigiAuskunft</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-digibib-loesungen">
+
+    
+
+
+        <a href="https://www.hbz-nrw.de/produkte/digibib-loesungen" class="state-published navTreeFolderish contenttype-hbz-productfolder" title="Als Informationsdienstleister mit DigiBib, DigiBib IntrOX, DigiLink und IPS kundenorientiert, effizient und einheitlich im Internet auftreten.">
+            
+            <span>DigiBib-Lösungen</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-digitale-inhalte">
+
+    
+
+
+        <a href="https://www.hbz-nrw.de/produkte/digitale-inhalte" class="state-published navTreeFolderish contenttype-hbz-productfolder" title="Über die Konsortialstelle des hbz kostenpflichtige elektronische Inhalte gemeinschaftlich erwerben, dabei von Kostenvorteilen und Synergieeffekten profitieren. ">
+            
+            <span>Digitale Inhalte</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-digitalisierung">
+
+    
+
+
+        <a href="https://www.hbz-nrw.de/produkte/digitalisierung" class="state-published navTreeFolderish contenttype-hbz-productfolder" title="Mit den Digitalisierungsangeboten des hbz Informationen zur Verarbeitung oder Speicherung in einem digitaltechnischen System aufbereiten.  ">
+            
+            <span>Digitalisierung</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-fernleihe">
+
+    
+
+
+        <a href="https://www.hbz-nrw.de/produkte/fernleihe" class="state-published navTreeFolderish contenttype-hbz-productfolder" title="Mit der Fernleihe die Literaturversorgung Ihrer Nutzer optimieren. ">
+            
+            <span>Fernleihe</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-langzeitverfuegbarkeit">
+
+    
+
+
+        <a href="https://www.hbz-nrw.de/produkte/langzeitverfuegbarkeit" class="state-published navTreeFolderish contenttype-hbz-productfolder" title="Mit der Langzeitarchivierung digitaler Daten die aufgebauten Ressourcen als wettbewerbskritische Faktoren dauerhaft verfügbar und nachnutzbar halten. ">
+            
+            <span>Langzeitverfügbarkeit</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-linked-open-data">
+
+    
+
+
+        <a href="https://www.hbz-nrw.de/produkte/linked-open-data" class="state-published navTreeFolderish contenttype-hbz-productfolder" title="Open Data als Zukunftsperspektive für Bibliotheken im Web.">
+            
+            <span>Linked Open Data</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-openurl-resolving">
+
+    
+
+
+        <a href="https://www.hbz-nrw.de/produkte/openurl-resolving" class="state-published navTreeFolderish contenttype-hbz-productfolder" title="Mit Linkresolving die Rechercheangebote mit der Literaturbereitstellung durch die Bibliothek verknüpfen. ">
+            
+            <span>OpenURL Resolving</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeItemInPath navTreeFolderish section-open-access">
+
+    
+
+
+        <a href="https://www.hbz-nrw.de/produkte/open-access" class="state-published navTreeItemInPath navTreeFolderish contenttype-hbz-productfolder" title="Mit Open Access den freien und kostenlosen Zugang zu wissenschaftlicher Literatur und anderen Materialien im Internet schaffen.">
+            
+            <span>Open Access</span>
+        </a>
+
+        
+            <ul class="navTree navTreeLevel1">
+                
+
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-dipp">
+
+    
+
+
+        <a href="https://www.hbz-nrw.de/produkte/open-access/dipp" class="state-published navTreeFolderish contenttype-hbz-product" title="Mit dem System Digital Peer Publishing (DiPP) ermöglicht das hbz Wissenschaftlern die einfache elektronische Veröffentlichung von Forschungsergebnissen und wissenschaftlichen Informationen.">
+            
+            <span>DiPP</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeItemInPath navTreeFolderish section-lizenzen">
+
+    
+
+
+        <a href="https://www.hbz-nrw.de/produkte/open-access/lizenzen" class="state-published navTreeItemInPath navTreeFolderish contenttype-hbz-product" title="Open Access und Open-Source-Lizenzen zur Unterstützuing von frei verfügbarem Wissen und Information im Allgemeinen">
+            
+            <span>Lizenzen</span>
+        </a>
+
+        
+            <ul class="navTree navTreeLevel2">
+                
+
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-dppl">
+
+    
+
+
+        <a href="https://www.hbz-nrw.de/produkte/open-access/lizenzen/dppl" class="state-published navTreeFolderish contenttype-folder" title="Digital Peer Publishing Lizenz">
+            
+            <span>DPPL</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeItemInPath navTreeFolderish section-dfsl">
+
+    
+
+
+        <a href="https://www.hbz-nrw.de/produkte/open-access/lizenzen/dfsl" class="state-published navTreeItemInPath navTreeFolderish contenttype-folder" title="Deutsche Freie Software Lizenz">
+            
+            <span>D-FSL</span>
+        </a>
+
+        
+            <ul class="navTree navTreeLevel3">
+                
+
+
+
+<li class="navTreeItem visualNoMarker section-deutsche-freie-software-lizenz">
+
+    
+
+
+        <a href="https://www.hbz-nrw.de/produkte/open-access/lizenzen/dfsl/deutsche-freie-software-lizenz" class="state-published contenttype-document" title="">
+            
+            <span>Deutsche Freie Software Lizenz</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker section-german-free-software-license">
+
+    
+
+
+        <a href="https://www.hbz-nrw.de/produkte/open-access/lizenzen/dfsl/german-free-software-license" class="state-published contenttype-document" title="">
+            
+            <span>German Free Software License</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+
+
+            </ul>
+        
+
+    
+</li>
+
+
+
+
+            </ul>
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-opus">
+
+    
+
+
+        <a href="https://www.hbz-nrw.de/produkte/open-access/opus" class="state-published navTreeFolderish contenttype-hbz-product" title="OPUS ist eine Server-Software zum Betrieb von institutionellen und fachlichen Repositorien, die häufig auch „Dokumentenserver“ oder „Volltextserver“ genannt werden.">
+            
+            <span>OPUS</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-fachrepositorium">
+
+    
+
+
+        <a href="https://www.hbz-nrw.de/produkte/open-access/fachrepositorium" class="state-published navTreeFolderish contenttype-hbz-product" title="Das Fachrepositorium Lebenswissenschaften von ZB MED - Informationszentrum Lebenswissenschaften macht Open-Access-Inhalte aus den Lebenswissenschaften weltweit verfügbar und bietet Wissenschaftlern eine zentrale Möglichkeit, ihre Forschungsergebnisse sichtbar zu machen. ">
+            
+            <span>Fachrepositorium Lebenswissenschaften</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+
+
+            </ul>
+        
+
+    
+</li>
+
+
+<li class="navTreeItem visualNoMarker navTreeFolderish section-verbunddienstleistungen">
+
+    
+
+
+        <a href="https://www.hbz-nrw.de/produkte/verbunddienstleistungen" class="state-published navTreeFolderish contenttype-hbz-productfolder" title="Als Verbundbibliothek Bestände gemeinschaftlich erschließen und den durch kooperative Katalogisierung entstehenden Mehrwert nutzen.">
+            
+            <span>Verbunddienstleistungen</span>
+        </a>
+
+        
+
+    
+</li>
+
+
+
+
+        </ul>
+        <span class="portletBottomLeft"></span>
+        <span class="portletBottomRight"></span>
+    </dd>
+</dl>
+
+</div>
+
+
+
+
+            
+        </div>
+
+		<div class="nine columns end" id="column-content">
+
+            <div id="viewlet-above-content"><div id="portal-breadcrumbs">
+
+    <span id="breadcrumbs-you-are-here">Sie sind hier:</span>
+    <span id="breadcrumbs-home">
+        <a href="https://www.hbz-nrw.de">Startseite</a>
+        <span class="breadcrumbSeparator">
+            /
+            
+        </span>
+    </span>
+    <span id="breadcrumbs-1" dir="ltr">
+        
+            <a href="https://www.hbz-nrw.de/produkte">Produkte &amp; Lösungen</a>
+            <span class="breadcrumbSeparator">
+                /
+                
+            </span>
+            
+         
+    </span>
+    <span id="breadcrumbs-2" dir="ltr">
+        
+            <a href="https://www.hbz-nrw.de/produkte/open-access">Open Access</a>
+            <span class="breadcrumbSeparator">
+                /
+                
+            </span>
+            
+         
+    </span>
+    <span id="breadcrumbs-3" dir="ltr">
+        
+            <a href="https://www.hbz-nrw.de/produkte/open-access/lizenzen">Lizenzen</a>
+            <span class="breadcrumbSeparator">
+                /
+                
+            </span>
+            
+         
+    </span>
+    <span id="breadcrumbs-4" dir="ltr">
+        
+            <a href="https://www.hbz-nrw.de/produkte/open-access/lizenzen/dfsl">D-FSL</a>
+            <span class="breadcrumbSeparator">
+                /
+                
+            </span>
+            
+         
+    </span>
+    <span id="breadcrumbs-5" dir="ltr">
+        
+            
+            
+            <span id="breadcrumbs-current">D-FSL-1_0_de.rtf</span>
+         
+    </span>
+
+</div>
+</div>
+
+            
+                <div class="">
+
+                    
+
+                    
+
+    <dl class="portalMessage info" id="kssPortalMessage" style="display:none">
+        <dt>Info</dt>
+        <dd></dd>
+    </dl>
+
+
+
+                    
+                        <div id="content">
+
+                            
+
+                            
+
+                             <div id="viewlet-above-content-title"></div>
+                             
+                                 
+                                 
+            
+                <h1 id="parent-fieldname-title" class="documentFirstHeading">
+                    D-FSL-1_0_de.rtf
+                </h1>
+            
+            
+        
+                             
+                             <div id="viewlet-below-content-title">
+</div>
+
+                             
+                                 
+                                 
+            
+                
+            
+            
+        
+                             
+
+                             <div id="viewlet-above-content-body"></div>
+                             <div id="content-core">
+                                 
+        
+            <p>
+                
+      <span>
+      
+      
+        
+          
+          
+              <a href="https://www.hbz-nrw.de/produkte/open-access/lizenzen/dfsl/D-FSL-1_0_de.rtf/at_download/file">
+                <img src="https://www.hbz-nrw.de/application.png" alt="Rich Text Format (RTF) icon" />
+                D-FSL-1_0_de.rtf
+              </a>
+              <span class="discreet">
+                  —
+                  Rich Text Format (RTF),
+                  51 KB (52379 bytes)
+              </span>
+          
+          
+          
+
+        
+      
+    </span>
+    
+            </p>
+            
+        
+    
+                             </div>
+                             <div id="viewlet-below-content-body">
+
+
+
+    <div class="visualClear"><!-- --></div>
+
+    <div class="documentActions">
+        
+
+        
+
+    </div>
+
+</div>
+
+                            
+                        </div>
+                    
+
+                    
+                </div>
+            
+
+            <div id="viewlet-below-content">
+
+
+
+
+<div class="shariff" data-url="https://www.hbz-nrw.de/produkte/open-access/lizenzen/dfsl/D-FSL-1_0_de.rtf" data-services="[&quot;twitter&quot;,&quot;facebook&quot;,&quot;googleplus&quot;,&quot;info&quot;]">
+<!--      data-backend-url="https://nyx.hbz-nrw.de/shariff" -->
+</div>
+<script src="https://www.hbz-nrw.de/++theme++hbz.responsive/js/shariff.min.js"></script>
+
+
+</div>
+        </div>
+		
+        
+		
+        <a href="#" class="back-to-top">Nach oben</a>
+	</div>
+		
+	<div class="band footer" id="footer">  
+		<div class="row">
+			<div class="six columns actions">
+				<ul id="siteactions"><li id="siteaction-sitemap"><a href="https://www.hbz-nrw.de/sitemap" accesskey="3" title="Übersicht">Übersicht</a></li><li id="siteaction-impressum"><a href="https://www.hbz-nrw.de/impressum" accesskey="" title="Impressum">Impressum</a></li><li id="siteaction-kontakt"><a href="https://www.hbz-nrw.de/ueber-uns/kontakt" accesskey="" title="Kontakt">Kontakt</a></li><li id="siteaction-datenschutz"><a href="https://www.hbz-nrw.de/datenschutz" accesskey="" title="Datenschutz">Datenschutz</a></li></ul>
+		    </div>
+			<div class="six columns social">
+                Folgen:
+                <ul id="socialactions">
+                    <li>
+                        <a href="https://twitter.com/hbz_NRW" title="Auf twitter folgen.">
+                            <i class="fa fa-twitter"></i> twitter
+                        </a></li>
+                    <li>
+                        <a href="https://www.facebook.com/Hochschulbibliothekszentrum-hbz-167321199983629/" title="Auf Facebook folgen.">
+                           <i class="fa fa-facebook"></i> facebook
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://github.com/hbz" title="Open Source Software des hbz bei github">
+                           <i class="fa fa-github"></i> github</a>
+                    </li>
+                    <li>
+                        <a href="/service/feeds" title="Feeds abonnieren">
+                           <i class="fa fa-rss"></i> feeds</a>
+                    </li>
+                </ul>
+		    </div>
+		</div>
+        <div class="row">
+			<div class="twelve columns">
+				<dl id="colophon">
+					 <dt><abbr title="Copyright">©</abbr> 2016 Hochschulbibliothekszentrum des Landes Nordrhein-Westfalen (hbz)</dt>
+					 <dd>Jülicher Straße 6</dd>
+					 <dd>50674 Köln</dd>
+					 <dd>+49 221 400 75-0</dd>
+				</dl>
+				
+			</div>
+		</div>	  
+	</div>
+	
+	<div id="viewlet-cookiepolicy">
+
+    <h1 id="tlspu_cookiepolicy_title">Cookies</h1>
+    
+    <p id="tlspu_cookiepolicy_message">Wir verwenden Cookies, um unsere Webseiten benutzerfreundlicher zu gestalten und um Zugriffsstatistiken zu erheben. Durch die Nutzung unserer Webseiten akzeptieren Sie die Speicherung von Cookies. <a href="https://www.hbz-nrw.de/impressum">Zum Impressum</a></p>
+    
+    <p id="tlspu_cookiepolicy_buttons">
+        <a href="https://www.hbz-nrw.de/datenschutz" id="tlspu_cookiepolicy_policy">mehr erfahren</a>
+        
+        <a href="#" id="tlspu_cookiepolicy_agreed">Cookies akzeptieren</a>
+    </p>
+    <!--
+    <form id="tlspu_cookiepolicy_form">
+        <input type="checkbox" id="tlspu_cookiepolicy_agreed" value="confirmed" />
+        <label for="tlspu_cookiepolicy_agreed" i18n:translate="">I have read and understood this message.</label>
+        <button disabled="disabled" id="tlspu_cookiepolicy_button" value="hide" i18n:translate="">Hide this message</button>
+    </form>
+    -->
+    
+
+</div>
+    
+    <!-- Piwik -->
+    <script id="piwik-analytics">
+  var _paq = _paq || [];
+  _paq.push(["setDomains", ["*.www.hbz-nrw.de"]]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//piwik.hbz-nrw.de/analytics/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', 1]);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+    <!-- End Piwik Code -->    
+  
+</div></body>
+</html>
