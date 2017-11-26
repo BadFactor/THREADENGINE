@@ -20,20 +20,22 @@ use specs;
 use nphysics;
 
 // GET OPERATING SYSTEM
-
-let OS = Linux::get()
+fn HARDWARE() {
+    ;
+}
 
 // GET HARDWARE DEVICES
 fn HARDWARE() {
     ;
 }
+
 // INIT REFUSE RENDERER
-fn INIT RENDERER() {
+fn INITRENDERER() {
     let mut init= init_renderer::()
 
 }
 
 // DEINIT REFUSE RENDERER
-fn DEINIT RENDERER() {
+fn DEINITRENDERER() {
     ;
 }
