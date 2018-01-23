@@ -1,4 +1,4 @@
-![Screenshot](https://github.com/BadFactor/THREADENGINE/THREAD ENGINE No Background.png)
+![Screenshot](THREADENGINE_NoBackground.png)
 
 # THREADENGINE
 Vulkan based and with Rustlang written multithreaded engine!
