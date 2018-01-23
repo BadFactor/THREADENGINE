@@ -1,5 +1,14 @@
-# ReFuse-Engine
+# THREADENGINE
 Vulkan based and with Rustlang written multithreaded engine!
+
+## Goals
+
+- Based on a Visual Node Coding App
+- Modular
+- Flexible
+- Asynchronous
+### GAME ENGINE
+
 
 ## Usings
 
