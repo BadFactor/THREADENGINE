@@ -1,4 +1,4 @@
-![Screenshot](THREADENGINE_02.png)
+![Screenshot](THREADENGINE_02.gif)
 
 # THREADENGINE
 Vulkan based and with Rustlang written multithreaded engine!
